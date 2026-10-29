@@ -1,0 +1,139 @@
+{
+  "updated_at": "2026-10-29T21:21:36.860241+08:00",
+  "stories": [
+    {
+      "url": "https://counterpointresearch.com/en/insights/global-pc-shipments-plunge-21-percent-in-q3-2026",
+      "headline": "Global PC shipments plunge 21% as memory costs push prices up",
+      "keywords": [
+        "global",
+        "shipments",
+        "plunge",
+        "memory",
+        "costs",
+        "push",
+        "prices"
+      ],
+      "claimed_at": "2026-10-23T20:49:54+08:00",
+      "slot": "22:00"
+    },
+    {
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "headline": "Browsers block 8 eMudhra certificates over guessable keys; eMudhra says it will quit SSL/TLS",
+      "keywords": [
+        "browsers",
+        "block",
+        "emudhra",
+        "certificates",
+        "guessable",
+        "keys",
+        "quit"
+      ],
+      "claimed_at": "2026-10-23T20:49:54+08:00",
+      "slot": "10:00"
+    },
+    {
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "headline": "Hack at developer cloud Railway: every user told to rotate their keys",
+      "keywords": [
+        "hack",
+        "developer",
+        "cloud",
+        "railway",
+        "every",
+        "user",
+        "told"
+      ],
+      "claimed_at": "2026-10-23T20:49:54+08:00",
+      "slot": "18:00"
+    },
+    {
+      "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
+      "headline": "OpenAI now trains its most powerful AI models with no live internet",
+      "keywords": [
+        "openai",
+        "trains",
+        "powerful",
+        "models",
+        "live",
+        "internet"
+      ],
+      "claimed_at": "2026-10-24T21:00:00+08:00",
+      "slot": "22:00"
+    },
+    {
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "headline": "China's Kimi K3.1 Pro closes in on the top AI models, open weights due by Nov 4",
+      "keywords": [
+        "china",
+        "kimi",
+        "k3.1",
+        "pro",
+        "closes",
+        "top",
+        "models"
+      ],
+      "claimed_at": "2026-10-24T21:00:00+08:00",
+      "slot": "10:00"
+    },
+    {
+      "url": "https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/",
+      "headline": "Facebook is charging some government and nonprofit Pages to post links",
+      "keywords": [
+        "facebook",
+        "charging",
+        "some",
+        "government",
+        "nonprofit",
+        "pages",
+        "post"
+      ],
+      "claimed_at": "2026-10-24T21:00:00+08:00",
+      "slot": "18:00"
+    },
+    {
+      "url": "https://www.capcom.co.jp/ir/english/news/html/e261022.html",
+      "headline": "Capcom confirms a hack touching 11.7 million CAPCOM ID account records",
+      "keywords": [
+        "capcom",
+        "confirms",
+        "hack",
+        "touching",
+        "11.7",
+        "million",
+        "account"
+      ],
+      "claimed_at": "2026-10-25T20:58:00+08:00",
+      "slot": "22:00"
+    },
+    {
+      "url": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
+      "headline": "UK launches an AI Biosecurity Lab backed by up to £300M, with OpenAI and Anthropic credits",
+      "keywords": [
+        "launches",
+        "biosecurity",
+        "lab",
+        "backed",
+        "300m",
+        "openai",
+        "anthropic"
+      ],
+      "claimed_at": "2026-10-25T20:58:00+08:00",
+      "slot": "10:00"
+    },
+    {
+      "url": "https://block.xyz/dessa",
+      "headline": "Block's Dessa: a voice AI it says was trained only on human conversation",
+      "keywords": [
+        "block",
+        "dessa",
+        "voice",
+        "trained",
+        "only",
+        "human",
+        "conversation"
+      ],
+      "claimed_at": "2026-10-25T20:58:00+08:00",
+      "slot": "18:00"
+    }
+  ]
+}
